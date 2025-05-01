@@ -1,5 +1,5 @@
 #calculadora de IMC
-#PESO DIVIDIDO PEA ALTURA **2
+#PESO DIVIDIDO PELA ALTURA **2
 
 altura = float(input("digite a sua altura em metros:"))
 peso = float(input("Digite o seu peso em kg :"))
